@@ -10,7 +10,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on myself
 - 🤔 I’m looking for help with Google
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyw15&show_icons=true&theme=synthwave)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyw15&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyw15&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+
+![wangyw15_github](https://count.getloli.com/get/@:wangyw15_github)
 
 <!--
 - 💬 Ask me about 
