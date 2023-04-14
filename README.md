@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyw15&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
-![wangyw15_github](https://count.getloli.com/get/@:wangyw15_github)
+![wangyw15_github](https://count.getloli.com/get/@:wangyw15_github?theme=rule34)
 
 <!--
 - 💬 Ask me about 
